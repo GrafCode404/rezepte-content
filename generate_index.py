@@ -15,7 +15,7 @@ def main():
         files.append({"name": name, "content": content})
 
     with open(OUTPUT, "w", encoding="utf-8") as f:
-        json.dump(files, f, ensure_ascii=False)
+        json.dump(files, f, ensure_ascii=False, separators=(",", ":"))
 
 
 if __name__ == "__main__":
