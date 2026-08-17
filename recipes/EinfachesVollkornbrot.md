@@ -1,4 +1,4 @@
-# Einfaches Vollkornbrot (Kastenbrot) Jetzt
+# Einfaches Vollkornbrot (Kastenbrot)
 
 * **Menge:** 1 Kastenbrot (16x9x9cm)                         
 * **Vorteig:** 8 - 12 Std.
