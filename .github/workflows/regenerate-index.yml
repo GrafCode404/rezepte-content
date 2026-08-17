@@ -23,13 +23,15 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Generate index.json
-        run: python generate_index.py
-
-      - name: Commit and push if changed
+      - name: Regenerate index.json and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Der Checkout steht auf dem auslösenden Commit (die .md-Änderung).
+          # Der Editor schreibt parallel oft schon eine neue index.json – deshalb
+          # erst auf den neuesten Stand ziehen, bevor wir neu generieren.
+          git pull --rebase
+          python generate_index.py
           git add recipes/index.json
           if git diff --cached --quiet; then
             echo "index.json unverändert – kein Commit nötig"
