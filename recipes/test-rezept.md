@@ -1,3 +1,6 @@
+---
+deleted: true
+---
 # Test Rezept
 * **Menge:** [z. B. 1 Laib]
 * **Vorteig:** -
