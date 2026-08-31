@@ -25,7 +25,7 @@
 | Olivenöl                           | 15 g   | 30 g    | 45 g    |
 | **Eierstreiche**                   |        |         |         |
 | Eigelb                             | 1      | 2       | 3       |
-| Sahne                              | 25 g   | 50 g    | 75 g    |
+| Joghurt 3,5%                       | 50 g   | 100 g   | 150 g    |
 | **Zum Bestreuen**                  |        |         |         |
 | Sesamsamen                         |        |         |         |
 | Schwarzkümmel                      |        |         |         |
@@ -51,7 +51,7 @@
 - In der Zwischenzeit den Backofen auf 220 Grad Ober-/Unterhitze vorheizen.
 
 ### **Backen**
-- Das Eigelb mit der Sahne gut vermischen und die Teiglinge vor dem Backen damit bestreichen.
+- Das Eigelb mit dem Joghurt gut vermischen und die Teiglinge vor dem Backen damit bestreichen.
 - Anschliessend die Teiglinge mit etwas Sesamsamen und Schwarzkümmel bestreuen.
 - Die Teiglinge in die mittlere Rille des vorgeheizten Backofens schieben.
 - Nach 2-3 Min. den Ofen bedampfen und die Brötchen total etwa 20 Min. goldgelb backen.
