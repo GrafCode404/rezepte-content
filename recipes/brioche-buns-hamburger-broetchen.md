@@ -1,6 +1,6 @@
 # Brioche Buns – Hamburger Brötchen
 
-* **Menge:** 9Stück
+* **Menge:** 9 Stück
 * **Vorteig:** -
 * **Stockgare:** 40 - 50 Minuten
 * **Stückgare:** 60 - 100 Minuten
