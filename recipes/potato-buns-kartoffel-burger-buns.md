@@ -8,6 +8,7 @@
 * **Backtemperatur:** 190 °C Ober-/Unterhitze
 
 <br />
+
 | Zutaten                      | 1x     | 2x      | 3x      |
 | :---                         | :---   | :---    | :---    |
 | **Hauptteig**                |        |         |         |
