@@ -13,6 +13,7 @@
 | :---                    | :---   | :---   | :---   |
 | **Hauptteig**           |        |        |        |
 | Weizenmehl Type 550     | 1000 g | 2000 g | 3000 g |
+| Wasser                  | 800 g  | 1600 g | 2400 g |
 | Salz                    |  20 g  | 40 g   | 60 g   |
 | Hefe                    |  3 g   | 6 g    | 9 g    |
 | Sauerteig (optional)    |  100 g | 200 g  | 300 g  |
